@@ -17,3 +17,6 @@ While we only tested one webpage, ideally, we would want to upload all static co
 # Purpose:
 
 This test demonstrated how a content delivery network can significantly decrease the latency of a web application. By storing and serving content in regions and zones away from the application’s servers, we are able to improve the user experience by minimizing the time it takes for requests to be fulfilled.
+
+# Design
+![Blitz1 drawio](https://github.com/nalDaniels/Blitz1/assets/135375665/0b0bcea5-cb67-46ec-8cc4-8d2f8bfd59b1)
